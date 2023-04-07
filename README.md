@@ -8,8 +8,10 @@ Instructions While Playing:---
 
 2. The aim of the game is to get to Gold at the end of the rainbow. For Every move a new square appears, Merge 2 together and 1 disappears.
 
-Good Luck on your game!!!!  ---------> Vangala Saikishore
+3. At last finally you will get complete grid as gold color, then you will be the winner of that particular game.
 
-I have developed this game using html, css and javascript 
-Here use the link to access the game:---   https://github.com/VangalaSaikishore/Sliding-Grid-Game/deployments/activity_log?environment=github-pages
+I have developed this game using HTML, CSS And JAVASCRIPT
+Use the deployment link to access the game:---   https://github.com/VangalaSaikishore/Sliding-Grid-Game/deployments/activity_log?environment=github-pages
+
+Good Luck for your game!!!!  ---------> Vangala Saikishore
 
