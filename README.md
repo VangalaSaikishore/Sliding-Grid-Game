@@ -11,7 +11,7 @@ Instructions While Playing:---
 3. At last finally you will get complete grid as gold color, then you will be the winner of that particular game.
 
 I have developed this game using HTML, CSS And JAVASCRIPT
-Use the deployment link to access the game:---   https://github.com/VangalaSaikishore/Sliding-Grid-Game/deployments/activity_log?environment=github-pages
+Use the deployment link to access the game:---  https://vangalasaikishore.github.io/Sliding-Grid-Game/
 
 Good Luck for your game!!!!  ---------> Vangala Saikishore
 
